@@ -1,0 +1,53 @@
+body{
+    background-image: url("peakpx\ \(3\).jpg");
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+.first{
+    width: 293px;
+    height: 500px;
+    margin-left: 891px;
+   
+}
+.name{
+    margin-top: 25px;
+    color: beige;
+}
+.button{
+    margin-left: 84px;
+    margin-top: 25px;
+    color: blue;
+    background-color: aqua;
+    width: 136px;
+    border: 1px;
+}
+.form-email{
+margin: 28px;
+}
+.select{
+    width: 170px;
+    margin-top: 25px;
+    margin-left: 75px;
+}
+.home-img{
+    width: 100%;
+    height: 851px;
+}
+.login-body{
+    background-color: rgb(255, 238, 0);
+}
+.two{
+    margin-left: 1095px;
+    width: 361px;
+    height: 200px;
+    margin-top: 139px;
+}
+.h1{
+    color: blueviolet;
+    font-weight: 600px;
+    font-size: 70px;
+    text-shadow: 2px 2px red;
+}
+.direction-head{
+    color: aqua;
+}
